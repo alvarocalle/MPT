@@ -1,3 +1,7 @@
-# Markowitz Portfolio Theory 
+# Modern Portfolio Theory 
 
-Library for Markowitz Portfolio Theory using matrix algebra
+Library for Modern Portfolio Theory using matrix algebra
+
+# References
+
+Markowitz, H. (1952). Portfolio Selection. The Journal of Finance, 7(1), 77-91. doi:10.2307/2975974
