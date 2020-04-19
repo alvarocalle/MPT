@@ -1,6 +1,6 @@
 # Modern Portfolio Theory 
 
-Library for Modern Portfolio Theory using matrix algebra
+Library for optimizing portfolios using mean-variance theory using matrix algebra
 
 # References
 
