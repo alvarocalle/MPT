@@ -1,6 +1,6 @@
-# Modern Portfolio Theory 
+# PyFolioOptimization
 
-Library for fast optimization of portfolios using mean-variance theory with matrix algebra
+Library for fast mean-variance portfolio optimization with matrix algebra
 
 # References
 
